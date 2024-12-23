@@ -156,6 +156,7 @@ Silva Framework is a 100% Brazilian project born out of the need to simplify web
 
 ### **Frameworks & Tools:**
 - **FastAPI & Uvicorn**: Efficient API development, asynchronous programming
+- **Redis**: In-memory data structure store, used as a database, cache, and message broker for fast data retrieval in web apps.
 - **React**: Dynamic, responsive front-end development
 - **Vue.js**: Flexible and approachable framework for building user interfaces
 - **MongoDB**: Scalable NoSQL database for handling large volumes of unstructured data
