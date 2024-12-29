@@ -3,6 +3,9 @@
 
 ---
 
+![Contador de Acessos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcont-perfil-github.vercel.app%2Ffollowers%2Feusouanderson&query=%24.accessCount&label=Contador%20de%20Acessos&color=blue&style=flat)
+
+
 ## 🖥️ **About Me**
 💚 Passionate about leveraging modern technologies to build high-impact web and desktop applications. From backend systems to interactive front-end experiences, I'm constantly exploring new ways to create efficient and scalable solutions. As a **Community Educator**, I am committed to teaching and mentoring others in technologies such as **Python**, **FastAPI**, **React**, and **Node.js**.
 
