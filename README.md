@@ -3,7 +3,7 @@
 
 ---
 
-![Contador de Acessos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcont-perfil-github.vercel.app%2Ffollowers%2Feusouanderson&query=%24.accessCount&label=Contador%20de%20Acessos&color=blue&style=flat&cacheSeconds=20)
+![Contador de Acessos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcont-perfil-github.vercel.app%2Ffollowers%2Feusouanderson&query=%24.accessCount&label=Contador%20de%20Acessos&color=blue&style=flat&cacheSeconds=1)
 
 
 
