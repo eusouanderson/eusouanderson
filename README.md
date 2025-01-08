@@ -150,6 +150,7 @@ Silva Framework is a 100% Brazilian project born out of the need to simplify web
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-FCC628?style=for-the-badge&logo=uvicorn&logoColor=white)
 
 ### **Languages:**
 - **Python**: Web APIs, automation, and data processing
