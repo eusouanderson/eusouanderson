@@ -18,10 +18,36 @@
 - 📫 **Contact**: [eusouanderson@outlook.com](mailto:eusouanderson@outlook.com)
 - 😄 **Pronouns**: He/Him
 - 📚 **Technologies & Classes**: [Check my teaching plans here](https://www.eusouanderson.me/planos)
+## 🚀 **Highlighted Projects** (constantly updated... as time allows! 😆)
+
+---
+### 💊 **[Busca Farma Five](https://busca-farma-five.vercel.app/)**  
+**Busca Farma Five** is a platform that helps users find medications across various pharmacies, filtering results by price and availability.  
+
+#### Features:  
+- **Search for Medications**: Quickly find medicines across multiple pharmacies.  
+- **Price Comparison**: Compare medication prices from different providers.  
+- **Filters & Sorting**: Filter results by price, availability, and pharmacy location.  
+- **Responsive Design**: Works seamlessly on desktops and mobile devices. 
 
 ---
 
-## 🚀 **Highlighted Projects** (constantly updated... as time allows! 😆)
+---
+### 🦷 **[Dental Clinic](https://odonto-khaki.vercel.app/)**  
+**Dental Clinic** is a professional website for a dental clinic, providing information about services, scheduling, and patient care.  
+
+#### Features:  
+- **Service Information**: Detailed descriptions of available dental treatments.  
+- **Online Scheduling**: Patients can book appointments online.  
+- **About the Clinic**: Information about the clinic, its professionals, and its mission.  
+- **Contact & Location**: Easy access to contact details and clinic address.  
+- **Modern & Clean Design**: A user-friendly interface with a professional look.  
+
+---
+
+---
+
+
 ### 📝 **[Orange Editor](https://github.com/eusouanderson/orange_editor)**
 **Orange Editor** is a simple and functional text editor created with the **Orange Micro Framework**.
 
@@ -37,12 +63,14 @@
 - **Toggle Transparency**: Enables or disables window transparency.  
   **Shortcut**: Ctrl + T
 - **Adjust Transparency**: Controls the transparency of the editor window via a slider.
-
+---
 ---
 
 ### 🧮 **[Orange Calculator](https://github.com/eusouanderson/orange_calculator)**
+
 **Orange Calculator** is a graphical calculator built with the **Orange Micro Framework** and **PySide6**. It offers basic arithmetic calculations and advanced mathematical operations, such as trigonometric functions and square roots. The project also allows the user to toggle between a memory view to store previous operations and perform real-time calculations.
 
+---
 ---
 
 ### 🎨 **[Graffiti](https://graffiti-alpha.vercel.app/)**
@@ -53,7 +81,7 @@ A creative spray-painting experience for the web, allowing users to unleash thei
 - 🖌️ **Interactive Spray Painting**: Real-time particle effects for a smooth, realistic spray experience
 - 🎨 **Various Brush Sizes & Colors**: Customize your spray for maximum creativity
 - 💾 **Save and Share**: Show off your digital masterpieces!
-
+---
 ---
 
 ### 🚗 **[Ferrari](https://ferrari-tan.vercel.app/)**
@@ -64,7 +92,7 @@ A cutting-edge web app showcasing Ferrari's rich history and futuristic designs.
 - 🚗 **Interactive Ferrari Models**: Explore Ferrari cars in 3D
 - 🌐 **Smooth UI/UX**: Sleek and intuitive experience
 - 🖼️ **Dynamic 3D Rendering** with **Three.js**
-
+---
 ---
 
 ### 🌳 **[ArkTree](https://ark-tree.vercel.app/)**
@@ -75,7 +103,7 @@ An innovative 3D experience focused on environmental awareness, built with **Vue
 - 🌍 **Environmental Preservation**: Raising environmental awareness through interactive visuals
 - 🌱 **3D Interaction**: Sustainable practices via 3D experience
 - 🚀 **WebGL-Based Visuals**: Cutting-edge rendering for a visually striking experience
-
+---
 ---
 
 ### 💸 **[Success Bet](https://apostouganhou.vercel.app/)**
@@ -86,7 +114,7 @@ An online platform for betting on various topics, from sports to entertainment. 
 - ⚡ **Real-Time Betting**: Bet on live events with real-time data updates.
 - 📊 **Interactive Dashboards**: Detailed analytics on betting trends.
 - 🏆 **Leaderboard System**: Track top winners and bets.
-
+---
 ---
 
 ### 🐄 **[Farm Auction](https://farm-simulator-auction-mod.vercel.app/)**
@@ -97,7 +125,7 @@ A fun and quirky auction platform where players can bid on "unique" items within
 - 💡 **Unique Auction Experience**: Bid on the most unusual items in a farm setting.
 - 🖼️ **Image Support**: Upload and bid on items with image previews.
 - 🔒 **Secure Transactions**: MongoDB-backed for seamless data management.
-
+---
 ---
 
 ### 🔶 **[Orange Framework - A Python Micro Framework for Cython Compilation](https://github.com/eusouanderson/orange)**
@@ -113,7 +141,7 @@ Orange Framework is a Python micro framework designed to simplify the process of
 - 🚀 **Build and Deploy Automation**: Includes automation scripts for building, testing, and deploying directly to GitHub Releases.
 - 🎨 **User Interface with PyQt**: Facilitates the creation of graphical interfaces, integrating Cython compilation and automation into PyQt applications.
 - 🔄 **Cross-Platform Support**: Supports both Linux and Windows environments for building and running projects.
-
+---
 ---
 
 ### 🔧 **[Silva Framework](https://github.com/eusouanderson/silva-framework)**
@@ -124,7 +152,7 @@ Silva Framework is a 100% Brazilian project born out of the need to simplify web
 - 🔧 **Simplified Web Development**: Aiming to reduce complexity while maintaining robustness.
 - 🛠️ **Easy-to-Use API**: Focused on providing a straightforward API to help developers create scalable web applications with less friction.
 - 🚀 **Production Ready**: Robust enough for production environments, yet simple to integrate into any project.
-
+---
 ---
 
 ## 🛠️ **Technologies & Tools**
