@@ -20,6 +20,19 @@
 - 📚 **Technologies & Classes**: [Check my teaching plans here](https://www.eusouanderson.me/planos)
 ## 🚀 **Highlighted Projects** (constantly updated... as time allows! 😆)
 
+---
+### 🛠️ **[Axiom Bob](https://axiom-bob.vercel.app/)** *(in development)*  
+**Axiom Bob** is a minimalist portfolio to showcase my projects, experiments, and coding journey.  
+
+#### Features (current/planned):  
+- **Project Showcase**: Clean display of my work with filters by tech stack (React, Next.js, etc.).  
+- **Interactive Elements**: Smooth animations and UI interactions (planned).  
+- **Dark/Light Mode**: Toggleable themes for better readability.  
+- **Responsive Layout**: Optimized for all devices.  
+- **Blog Integration**: Future section for technical write-ups (planned).  
+
+*(Under active development – suggestions appreciated!)*  
+---
 
 ---
 ### ⚽ **[ZeGol](https://fut-game-iota.vercel.app/)** *(in development)*  
