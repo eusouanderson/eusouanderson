@@ -20,6 +20,23 @@
 - 📚 **Technologies & Classes**: [Check my teaching plans here](https://www.eusouanderson.me/planos)
 ## 🚀 **Highlighted Projects** (constantly updated... as time allows! 😆)
 
+
+---
+### ⚽ **[ZeGol](https://fut-game-iota.vercel.app/)** *(in development)*  
+**ZeGol** is a soccer player management game where you act as a coach, building and developing your ideal team.  
+
+#### Features (current/planned):  
+- **Squad Management**: Buy, sell, and train players with dynamic stats.  
+- **Match Simulation**: Games based on tactics and player skills.  
+- **Tournament System**: AI-driven competitions with adjustable difficulty.  
+- **Player Progression**: Develop athletes through training and experience.  
+- **Responsive Design**: Playable on desktop and mobile (planned).  
+
+*(Actively developed project – feedback welcome!)*  
+---
+
+
+
 ---
 ### 💊 **[Busca Farma Five](https://busca-farma-five.vercel.app/)**  
 **Busca Farma Five** is a platform that helps users find medications across various pharmacies, filtering results by price and availability.  
