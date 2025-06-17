@@ -174,16 +174,7 @@ Orange Framework is a Python micro framework designed to simplify the process of
 ---
 ---
 
-### 🔧 **[Silva Framework](https://github.com/eusouanderson/silva-framework)**
-Silva Framework is a 100% Brazilian project born out of the need to simplify web development in Python. The idea came up during a period of extreme exhaustion, amidst a burnout, when I realized that while popular Python web frameworks are great, they are often complex and difficult to use efficiently. On the other hand, less known frameworks lack support and robustness, making them hard to use in production. It's an ambitious project that I’m determined to finish, but I’m unsure of when or how (haha!).  
-**Technologies**: **Python**, **Web Development**
 
-💡 **Features**:
-- 🔧 **Simplified Web Development**: Aiming to reduce complexity while maintaining robustness.
-- 🛠️ **Easy-to-Use API**: Focused on providing a straightforward API to help developers create scalable web applications with less friction.
-- 🚀 **Production Ready**: Robust enough for production environments, yet simple to integrate into any project.
----
----
 
 ## 🛠️ **Technologies & Tools**
 
