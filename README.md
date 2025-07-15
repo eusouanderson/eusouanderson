@@ -2,7 +2,9 @@
 **Fullstack Developer** specializing in cutting-edge technologies, innovative game telemetry solutions, automotive systems, and **Community Educator** teaching modern web technologies.
 
 ---
+https://www.youtube.com/watch?v=vaFHawMRsps
 https://www.youtube.com/watch?v=oDXDYjksMds
+
 
 ![Access Count](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcont-perfil-github.vercel.app%2Ffollowers%2Feusouanderson&query=%24.accessCount&label=Access%20Count&color=blue&style=flat&v=${Date.now()})
 
