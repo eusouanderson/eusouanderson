@@ -19,6 +19,27 @@ https://www.youtube.com/watch?v=oDXDYjksMds
 - 📚 **Technologies & Classes**: [Check my teaching plans here](https://www.eusouanderson.me/planos)
 
 ## 🚀 **Highlighted Projects** (constantly updated... as time allows! 😆)
+---
+## 💬 [Financy CRM](https://crm-nine-sandy.vercel.app/) (Modern Financial Management System)
+
+**Financy CRM** is an advanced financial management platform developed by Anderson, designed to help professionals manage clients, investments, and financial portfolios with real-time analytics and modern UI.
+
+### Features:
+
+- **Comprehensive Client Management:** Organize client data and financial portfolios in one place.
+- **Real-time Financial Analytics:** Visualize investments and portfolio performance instantly.
+- **Responsive UI:** Built with Vue 3 and Vuetify/Tailwind CSS for smooth and adaptive user experience.
+- **Scalable Backend:** Powered by Bun and Hono framework with PostgreSQL and Drizzle ORM for efficient data handling.
+- **Security & Authentication:** Integration with Stytch for secure passwordless authentication.
+- **Fast Development Workflow:** Using Vite, TypeScript, and modern JS toolchain for maintainability and speed.
+
+### Technologies:
+
+- **Frontend:** Vue 3, Vuetify, Tailwind CSS, TypeScript, Vite, GSAP, Three.js  
+- **Backend:** Bun, Hono, PostgreSQL, Drizzle ORM, Stytch Auth, Zod (validation)  
+- **Dev Tools:** Docker, Drizzle Seed, dotenv, bcryptjs  
+
+---
 
 ---
 ### 💬 **[ChatGemini](https://github.com/eusouanderson/ChatGemini)** *(New Project!)*
