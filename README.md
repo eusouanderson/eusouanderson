@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=oDXDYjksMds
 
 ## 🚀 **Highlighted Projects** (constantly updated... as time allows! 😆)
 ---
-## 💬 [Financy CRM](https://crm-nine-sandy.vercel.app/) (Modern Financial Management System)
+## 💬 [Financy CRM](https://crm-nine-sandy.vercel.app/) (Modern Financial Management System)*(in development)*
 
 **Financy CRM** is an advanced financial management platform developed by Anderson, designed to help professionals manage clients, investments, and financial portfolios with real-time analytics and modern UI.
 
@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=oDXDYjksMds
 ---
 
 ---
-### 💬 **[ChatGemini](https://github.com/eusouanderson/ChatGemini)** *(New Project!)*
+### 💬 **[ChatGemini](https://github.com/eusouanderson/ChatGemini)** *(in development)*
 
 **ChatGemini** is a full-stack chat application developed by Anderson, utilizing Gemini AI for conversations. It is split into two main microservices: a modern frontend built with Vue.js and a robust backend in TypeScript/Bun, with a focus on performance, maintainability, and scalability.
 
