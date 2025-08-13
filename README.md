@@ -1,4 +1,4 @@
-# 👋 **Hello, I’m Anderson Rodrigues!** 🚗🚀
+# 👋 **Hello, I’m Anderson!** 🚗🚀
 **Fullstack Developer** specializing in cutting-edge technologies, innovative game telemetry solutions, automotive systems, and **Community Educator** teaching modern web technologies.
 
 ---
