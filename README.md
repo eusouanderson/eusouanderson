@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anderson-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderson-rodrigues-24003823b/)
 [![Email](https://img.shields.io/badge/Email-eusouanderson@outlook.com-0078D4?style=flat&logo=microsoft-outlook)](mailto:eusouanderson@outlook.com)
 [![Website](https://img.shields.io/badge/Website-eusouanderson.me-FF7139?style=flat&logo=firefox-browser)](https://www.eusouanderson.me)
-[![YouTube](https://img.shields.io/badge/YouTube-Anderson-FF0000?style=flat&logo=youtube)](https://www.youtube.com/channel/your-channel)
+[![YouTube](https://img.shields.io/badge/YouTube-Anderson-FF0000?style=flat&logo=youtube)](https://www.youtube.com/channel)
 
 ![Access Count](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcont-perfil-github.vercel.app%2Ffollowers%2Feusouanderson&query=%24.accessCount&label=Profile%20Views&color=blue&style=flat)
 ![Followers](https://img.shields.io/github/followers/eusouanderson?label=Followers&style=flat)
