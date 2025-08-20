@@ -73,7 +73,7 @@
 
 <div align="center">
   
-![Anderson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eusouanderson&show_icons=true&theme=radical&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eusouanderson&layout=compact&theme=radical&langs_count=8)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=eusouanderson&theme=radical)
 
