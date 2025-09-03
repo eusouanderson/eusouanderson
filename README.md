@@ -1,4 +1,3 @@
-<!-- Adicione isso no início do seu README.md -->
 <div align="center">
   
 # 👋 Hello, I'm Anderson! 🚗🚀
@@ -26,6 +25,20 @@
 - 💬 **Ask me about**: **FastAPI**, **Rust**, **Electron.js**, **Python**, **Game Telemetry**
 - 📫 **How to reach me**: [eusouanderson@outlook.com](mailto:eusouanderson@outlook.com)
 - 📚 **Technologies & Classes**: [Check my teaching plans here](https://www.eusouanderson.me/planos)
+
+
+## 🔧 VSCode Settings
+
+📂 [settings.json](https://github.com/eusouanderson/minhas_config/blob/main/vs_config/setings.json)
+
+```json
+{
+  // ========== TEMA & UI ==========
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.preferredLightColorTheme": "Default Dark Modern",
+  "workbench.preferredDarkColorTheme": "Palenight (Mild Contrast)",
+  "workbench.iconTheme": "vscode-icons",
+```
 
 ## 🛠️ Tech Stack
 
@@ -147,7 +160,6 @@ A Python micro framework designed to simplify compiling Python code to Cython.
 ---
 
 ## 📝 Latest Blog Posts
-<!-- Se você tiver um blog, pode adicionar posts recentes aqui -->
 - [How to Build a Modern Web App with FastAPI and Vue.js](https://www.eusouanderson.me/blog/fastapi-vue)
 - [Getting Started with Game Telemetry Using Python](https://www.eusouanderson.me/blog/game-telemetry)
 - [Automating Tests with Pytest and Playwright](https://www.eusouanderson.me/blog/automated-testing)
