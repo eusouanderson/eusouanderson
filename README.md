@@ -26,7 +26,6 @@
 - 📫 **How to reach me**: [eusouanderson@outlook.com](mailto:eusouanderson@outlook.com)
 - 📚 **Technologies & Classes**: [Check my teaching plans here](https://www.eusouanderson.me/planos)
 
-
 ## 🔧 VSCode Settings
 
 📂 [settings.json](https://github.com/eusouanderson/minhas_config/blob/main/vs_config/setings.json)
@@ -43,6 +42,7 @@
 ## 🛠️ Tech Stack
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -52,6 +52,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Frontend Development
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -59,6 +60,7 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Backend Development
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
@@ -67,6 +69,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Testing Technologies
+
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
@@ -75,6 +78,7 @@
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ### DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -85,7 +89,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eusouanderson&layout=compact&theme=radical&langs_count=8)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=eusouanderson&theme=radical)
@@ -94,72 +97,233 @@
 
 ## 🚀 Featured Projects
 
-### 💬 Financy CRM - Modern Financial Management System
-*(in development)*
+### 💬 CRM - Modern Financial Management System
 
-**Financy CRM** is an advanced financial management platform with real-time analytics and modern UI.
-
-**Tech**: Vue 3, Vuetify, Tailwind CSS, TypeScript, Bun, Hono, PostgreSQL, Drizzle ORM, Stytch Auth
+General updates: schemas, controllers, user and categories tests, migrations, and removal of userService
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-CRM-green?style=for-the-badge)](https://crm-nine-sandy.vercel.app/)
-[![Repository](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/eusouanderson/your-repo-name)
+[![Repository](https://img.shields.io/badge/GitHub-Crm-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/Crm)
 
 ---
 
-### 🤖 ChatGemini - AI-Powered Chat Application
-*(in development)*
+### 🎨 3D Project
 
-**ChatGemini** is a full-stack chat application utilizing Gemini AI for conversations.
+Migração para Tailwind CSS v4 e refatoração de componentes
 
-**Tech**: Vue.js, Vuetify, TypeScript, Bun, Pinia, PostgreSQL, Drizzle ORM, Redis, Docker
+[![Live Demo](https://img.shields.io/badge/Live_Demo-3D-green?style=for-the-badge)](https://3d-sigma-beryl.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-3d-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/3d)
 
-[![Repository](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/eusouanderson/ChatGemini)
+---
+
+### 🔒 Compliance Security Tool Site
+
+Compliance and security tool platform
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Site-green?style=for-the-badge)](https://compliance-security-tool-site.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-ComplianceSecurityTool-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/ComplianceSecurityTool)
+
+---
+
+### 🔒 Compliance Security Tool
+
+Compliance and security management platform
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Tool-green?style=for-the-badge)](https://compliance-security-tool-sandy.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-ComplianceSecurityTool-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/ComplianceSecurityTool)
+
+---
+
+### 🌐 Houg Web Site
+
+Corporate website project
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Site-green?style=for-the-badge)](https://houg-web-site.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-hougWebSite-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/hougWebSite)
 
 ---
 
 ### 🎨 Axiom Bob - Minimalist Portfolio
-*(in development)*
 
-**Axiom Bob** is a minimalist portfolio to showcase projects, experiments, and coding journey.
-
-**Tech**: React, Next.js, Tailwind CSS, Framer Motion
+Portfolio with ImageSlider component and new assets
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Portfolio-green?style=for-the-badge)](https://axiom-bob.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-AxiomBOB-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/AxiomBOB)
 
 ---
 
-### ⚽ ZeGol - Soccer Player Management Game
-*(in development)*
+### 🌳 Ark Tree
 
-**ZeGol** is a soccer player management game where you act as a coach building your ideal team.
+Interactive tree visualization project
 
-**Tech**: React, Node.js, MongoDB, Socket.io
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Tree-green?style=for-the-badge)](https://ark-tree.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-ark__tree-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/ark_tree)
+
+---
+
+### 🏎️ Ferrari
+
+3D Ferrari showcase with interactive features
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Ferrari-green?style=for-the-badge)](https://ferrari-tan.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-ferrari-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/ferrari)
+
+---
+
+### 🦷 Odonto
+
+Dental clinic management system
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Odonto-green?style=for-the-badge)](https://odonto-khaki.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-Odonto-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/Odonto)
+
+---
+
+### 🦷 ClinicOdonto
+
+Dental clinic website with footer, about, and services sections
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Clinic-green?style=for-the-badge)](https://clinicodonto.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-ClinicOdontologic-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/ClinicOdontologic)
+
+---
+
+### ⚽ Fut Game - Soccer Game
+
+Interactive soccer management game
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Game-green?style=for-the-badge)](https://fut-game-iota.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-FutGame-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/FutGame)
 
 ---
 
-### 💊 Busca Farma Five - Medication Finder Platform
+### 🎮 Killers
 
-**Busca Farma Five** helps users find medications across various pharmacies with price comparison.
+Action game project
 
-**Tech**: Vue.js, Node.js, MongoDB
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Game-green?style=for-the-badge)](https://killers-alpha.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-killers-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/killers)
+
+---
+
+### 💼 New Portfolio
+
+Personal portfolio with new design and particle effects
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Portfolio-green?style=for-the-badge)](https://www.eusouanderson.me)
+[![Repository](https://img.shields.io/badge/GitHub-new--portifolio-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/new-portifolio)
+
+---
+
+### 🚀 Rocket Server
+
+Backend server application
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Server-green?style=for-the-badge)](https://rocker-server-rho.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-rocket-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/rocket)
+
+---
+
+### 🚀 Rocket
+
+Web application project
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-App-green?style=for-the-badge)](https://rocket-indol.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-rocket-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/rocket)
+
+---
+
+### 💊 Busca Medi
+
+Medical search platform with mobile input support
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Platform-green?style=for-the-badge)](https://busca-medi.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-BuscaMedi-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/BuscaMedi)
+
+---
+
+### 🎨 Graffiti
+
+Graffiti art application with particle effects and color spray
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Art-green?style=for-the-badge)](https://graffiti-alpha.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-graffiti-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/graffiti)
+
+---
+
+### 🤖 Bobot
+
+Code execution bot with updated Piston compiler
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Bot-green?style=for-the-badge)](https://bobot-beryl.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-Bobot-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/Bobot)
+
+---
+
+### 🎰 Apostou Ganhou
+
+Gaming and betting platform
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Platform-green?style=for-the-badge)](https://apostouganhou.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-apostouganhou-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/apostouganhou)
+
+---
+
+### 🚜 Farm Simulator Auction MOD
+
+Farm simulator auction modification
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-MOD-green?style=for-the-badge)](https://farm-simulator-auction-mod.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-Farm--Simulator--Auction--MOD-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/Farm-Simulator-Auction-MOD)
+
+---
+
+### 🕵️ Spy On
+
+Monitoring and tracking application
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-App-green?style=for-the-badge)](https://spy-on-three.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-spyON-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/spyON)
+
+---
+
+### 📚 Plano de Ensino
+
+Teaching plan management with WhatsApp integration
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Platform-green?style=for-the-badge)](https://plano-de-ensino-six.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-plano__de__ensino-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/plano_de_ensino)
+
+---
+
+### 📊 GitHub Profile Counter
+
+GitHub profile view counter with server fix
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Counter-green?style=for-the-badge)](https://cont-perfil-github.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-cont--perfil--github-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/cont-perfil-github)
+
+---
+
+### 💊 Busca Farma
+
+Pharmacy search platform with mobile input support
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Platform-green?style=for-the-badge)](https://busca-farma-five.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-BuscaMedi-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/BuscaMedi)
 
 ---
 
-### 🔶 Orange Framework - Python Micro Framework
+### 📚 API Planos de Ensino
 
-A Python micro framework designed to simplify compiling Python code to Cython.
+Teaching plan API with token authentication
 
-**Tech**: Python, Cython, PyQt, Automation Scripts
-
-[![Repository](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/eusouanderson/orange)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-API-green?style=for-the-badge)](https://api-planos-de-ensino.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-api--planos--de--ensino-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/api-planos-de-ensino)
 
 ---
 
 ## 📝 Latest Blog Posts
+
 - [How to Build a Modern Web App with FastAPI and Vue.js](https://www.eusouanderson.me/blog/fastapi-vue)
 - [Getting Started with Game Telemetry Using Python](https://www.eusouanderson.me/blog/game-telemetry)
 - [Automating Tests with Pytest and Playwright](https://www.eusouanderson.me/blog/automated-testing)
