@@ -254,7 +254,7 @@ Graffiti art application with particle effects and color spray
 
 Code execution bot with updated Piston compiler
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Bot-green?style=for-the-badge)](https://bobot-beryl.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Bot-green?style=for-the-badge)](https://bobot-rho.vercel.app/)
 [![Repository](https://img.shields.io/badge/GitHub-Bobot-blue?style=for-the-badge&logo=github)](https://github.com/eusouanderson/Bobot)
 
 ---
